@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1708469011 source:c:\users\fedor\desktop\mipt\4 semester\informatics\03.02.2024\задачи\2\main.cpp
+	<iostream>
+	<memory>
+
+1708469892 source:c:\users\fedor\desktop\mipt\4 semester\informatics\03.02.2024\задачи\2\src\shared_pointer.cpp
+	"shared_pointer.h"
+
+1708469891 c:\users\fedor\desktop\mipt\4 semester\informatics\03.02.2024\задачи\2\include\shared_pointer.h
+
